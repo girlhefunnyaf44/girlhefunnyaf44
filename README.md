@@ -10,6 +10,7 @@
 
 #### 🛠 Languages & Tools <br />
 
+<img height="35" src="https://miro.medium.com/max/1200/1*oA-xwE-aZnS1jp_JVppwZQ.png"></code>
 <img height="35" src="https://younggates.com/uploads/1547662972python2.png"></code>
 <img height="35" src="https://icon2.cleanpng.com/20180514/abe/kisspng-atom-text-editor-source-code-editor-visual-studio-5af92043eaf496.4540113715262761639624.jpg"></code>
 
