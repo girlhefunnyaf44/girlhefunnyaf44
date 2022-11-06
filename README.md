@@ -15,7 +15,7 @@
 -->
 <img height="35" src="https://younggates.com/uploads/1547662972python2.png"></code>
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"></code>
+<img height="35" src="https://chesswise.defiantchris.com/images/pix/Perl-camel.png"></code>
 
 ![BigCountry's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlhefunnyaf44&show_icons=true&theme=tokyonight)
 
