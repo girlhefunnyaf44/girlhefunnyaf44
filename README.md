@@ -10,9 +10,8 @@
 
 #### 🛠 Languages & Tools <br />
 
-<!---
 <img height="35" src="https://external-preview.redd.it/h8Bcr_a8ms3KiFpB1tgWzJfuEGjj3tT3zGIlG1f-it4.jpg?auto=webp&s=353a57da906006bcda392df14b2ebd6594e40746"></code>
--->
+
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png"></code>
 <img height="35" src="https://chesswise.defiantchris.com/images/pix/Perl-camel.png"></code>
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049"></code>
