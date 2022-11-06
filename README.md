@@ -9,7 +9,7 @@
 - 😄 Pronouns: He / Him
 
 #### 🛠 Languages & Tools <br />
-<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code>
+<img height="35" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png"></code>
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png"></code>
 <img height="35" src="https://chesswise.defiantchris.com/images/pix/Perl-camel.png"></code>
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049"></code>
