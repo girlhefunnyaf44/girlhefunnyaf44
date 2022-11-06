@@ -14,8 +14,8 @@
 <img height="35" src="https://external-preview.redd.it/h8Bcr_a8ms3KiFpB1tgWzJfuEGjj3tT3zGIlG1f-it4.jpg?auto=webp&s=353a57da906006bcda392df14b2ebd6594e40746"></code>
 -->
 <img height="35" src="https://younggates.com/uploads/1547662972python2.png"></code>
-<img height="35" src="https://w7.pngwing.com/pngs/290/579/png-transparent-html-html-logo-html-5-html-five-logo-html-5-logo-programming-langugae-3d-icon-thumbnail.png"></code>
-<img height="35" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png"></code>
+<img height="35" src="https://w7.pngwing.com/pngs/237/582/png-transparent-perl-6-programming-language-programmer-ruby-mammal-fauna-wildlife-thumbnail.png"></code>
+<img height="35" src="https://w7.pngwing.com/pngs/840/443/png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange.png"></code>
 
 ![BigCountry's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlhefunnyaf44&show_icons=true&theme=tokyonight)
 
