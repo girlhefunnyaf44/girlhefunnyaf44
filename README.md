@@ -1,6 +1,8 @@
  ## Greetings!  <img src="https://i.imgur.com/TXOjIsn.gif" width="29px">
-
-<img src="https://i.imgur.com/tTvkUOz.gif" align="right" width="400" height="auto"/> </a>
+ 
+<img src="https://i.imgur.com/tTvkUOz.gif" align="center" style="width: 100%" />
+</br>
+<h2> Connect with me on 👇</h2>
 
 
 - 🔭 My interests are: Memory Hacking & Cybersecurity
