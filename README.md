@@ -1,7 +1,7 @@
  ## Greetings!  <img src="https://i.imgur.com/TXOjIsn.gif" width="29px">
 
 
-<img src="https://i.imgur.com/tTvkUOz.gif" align="center" style="width: 200%" />
+<img src="https://i.imgur.com/tTvkUOz.gif" align="center" width="800" height="800"/> </a>
 </br>
 <h2> Connect with me on 👇</h2>
 
