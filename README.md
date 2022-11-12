@@ -21,7 +21,6 @@
 <br/> 
 
 <h2> Github Stats </h2> 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=girlhefunnyaf44&show_icons=true&theme=tokyonight" alt="muskanrani" />
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=girlhefunnyaf44&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/girlhefunnyaf44/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girlhefunnyaf44&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=girlhefunnyaf44&theme=tokyonight" alt="BigCountry" />
 <br/>
-
