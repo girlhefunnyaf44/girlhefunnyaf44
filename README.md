@@ -1,5 +1,6 @@
  ## Greetings!  <img src="https://i.imgur.com/TXOjIsn.gif" width="29px">
- 
+
+
 <img src="https://i.imgur.com/tTvkUOz.gif" align="center" style="width: 100%" />
 </br>
 <h2> Connect with me on 👇</h2>
@@ -18,4 +19,3 @@
 
 ![BigCountry's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlhefunnyaf44&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=girlhefunnyaf44&layout=compact&theme=tokyonight"/>
-
