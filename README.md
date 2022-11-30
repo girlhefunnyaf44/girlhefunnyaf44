@@ -28,5 +28,4 @@
 
 ## Github Stats 
 
-![BigCountry's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlhefunnyaf44&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=girlhefunnyaf44&layout=compact&theme=tokyonight"/>
+![BigCountry's GitHub stats]<img src="https://github-readme-stats.vercel.app/api/top-langs?username=girlhefunnyaf44&layout=compact&theme=tokyonight"/>
