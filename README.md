@@ -7,7 +7,6 @@
 - 🔭 My interests are: Memory Hacking & Cybersecurity
 - ⚗️ I’m currently learning: GoLang & Graphic Design
 - 💬 Talk to me about: Basketball, Chess, Fishing or GFX
-- 😄 Pronouns: He / Him
 
 ## 🛠 Languages & Tools 
 
