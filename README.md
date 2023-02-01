@@ -4,9 +4,9 @@
 <img src="https://i.imgur.com/tTvkUOz.gif" align="right" width="400" height="auto"/> </a>
 
 
-- 🔭 My interests are: Memory Hacking & Cybersecurity
-- ⚗️ I’m currently learning: GoLang & Graphic Design
-- 💬 Talk to me about: Basketball, Chess, Fishing or GFX
+- 🔭 My interests are: Cybersecurity & Memory Forensics
+- ⚗️ I’m currently learning: HTML & CSS
+- 💬 Talk to me about: Basketball, Chess, Fishing or Valorant
 
 ## 🛠 Languages & Tools 
 
