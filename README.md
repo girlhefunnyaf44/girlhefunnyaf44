@@ -30,10 +30,10 @@ func main() {
 		Vacations: []string{ 
 			"France 🥖",
 			"Australia 🐨",
-			"Belize 🍹",
+			"Belize",
 			"Dominican Republic 🍍",
 			"Canada 🍁",
-			"Hawaii 🏖️", 
+			"Hawaii", 
 		}
 	}
 } 
