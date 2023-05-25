@@ -1,4 +1,3 @@
-  ## Je M'appelle! 
  <pre>
                           /|                        /|
                           | \           __ _ _     / ;
@@ -27,7 +26,7 @@
 </pre>
 
 
-<img src="https://i.imgur.com/tTvkUOz.gif" align="right" width="400" height="auto"/> </a>
+  ## Je M'appelle! <img src="https://i.imgur.com/TXOjIsn.gif" width="29px">
 
 
 - 🔭 My interests are: Cybersecurity & Memory Forensics
