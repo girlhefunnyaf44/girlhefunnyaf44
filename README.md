@@ -5,15 +5,13 @@
 
 
 - 🔭 My interests are: Cybersecurity & Memory Forensics
-- ⚗️ I’m currently learning: HTML & CSS
+- ⚗️ I’m currently learning: Networking 
 - 💬 Talk to me about: Basketball, Chess, Fishing or Valorant
 
 ## 🛠 Languages & Tools 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Specs 🧪
