@@ -28,8 +28,8 @@ func main() {
 		Code:    []string{"Golang", "Perl", "Python"},
 		Tools:   []string{"CheatEngine", "PyCharm", "VS Code", "Raspberry Pi"},
 		Vacations: []string{ 
-			"France 🥖",
-			"Australia 🐨",
+			"France",
+			"Australia",
 			"Belize",
 			"Dominican Republic",
 			"Canada",
