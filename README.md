@@ -1,45 +1,48 @@
  <pre>
-  ,  ,.~"""""~~..
-  )\,)\`-,       `~._                                     .--._
-  \  \ | )           `~._                   .-"""""-._   /     `.
- _/ ('  ( _(\            `~~,__________..-"'          `-<        \
- )   )   `   )/)   )        \                            \,-.     |
-') /)`      \` \,-')/\      (                             \ /     |
-(_(\ /7      |.   /'  )'  _(`                              Y      |
-    \       (  `.     ')_/`                                |      /
-     \       \   \                                         |)    (
-      \ _  /\/   /                                         (      `~.
-       `-._)     |                                        / \        `,
-                 |                          |           .'   )      (`
-                 \                        _,\          /     \_    (`
-                  `.,      /       __..'7"   \         |       )  (
-                  .'     _/`-..--""      `.   `.        \      `._/
-                .'    _.j     /            `-.  `.       \
-              .'   _.'   \    |               `.  `.      \
-             |   .'       ;   ;               .'  .'`.     \
-             \_  `.       |   \             .'  .'   /    .'
-               `.  `-, __ \   /           .'  .'     |   (
-                 `.  `'` \|  |           /  .-`     /   .'
-                   `-._.--t  ;          |_.-)      /  .'
-                          ; /           \  /      / .'
-                         / /             `'     .' /
-                        /,_\                  .',_(
-                       /___(                 /___(
+       __             ___
+      // )    ___--""    "-.
+ \ |,"( /`--""              `.    
+  \/ o                        \  
+  (   _.-.              ,'"    ;  
+   |\"   /`. \  ,      /       |
+   | \  ' .'`.; |      |       \.______________________________
+     _-'.'    | |--..,,,\_    \________------------""""""""""""
+    '''"   _-'.'       ___"-   )
+          '''"        '''---~""
 </pre>
 
 
   ## Je M'appelle! <img src="https://i.imgur.com/TXOjIsn.gif" width="29px">
 
+```golang
+package main
 
-- 🔭 My interests are: Cybersecurity & Memory Forensics
-- ⚗️ I’m currently learning: Networking 
-- 💬 Talk to me about: Basketball, Chess, Fishing or Valorant
+import "fmt"
 
-## 🛠 Languages & Tools 
+type Farmer struct {
+	Hobbies   []string
+	Code      []string
+	Tools     []string
+	Vacations []string
+}
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+func main() {
+	rice := Farmer{
+		Hobbies: []string{"Fishing", "Basketball", "Kickboxing", "Traveling"},
+		Code:    []string{"Golang", "Perl", "Python"},
+		Tools:   []string{"CheatEngine", "PyCharm", "VS Code", "Raspberry Pi"},
+		Vacations: []string{ 
+			"France 🥖",
+			"Australia 🐨",
+			"Belize 🍹",
+			"Dominican Republic 🍍",
+			"Canada 🍁",
+			"Hawaii 🏖️", 
+		},
+	} 
+
+	fmt.Println(rice)
+}```
 
 ## Specs 🧪
 
