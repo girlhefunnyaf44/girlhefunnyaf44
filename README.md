@@ -36,8 +36,8 @@ func main() {
 			"Hawaii 🏖️", 
 		}
 	} 	
-} // I enjoy traveling and have been to all of the above countries```
-
+} // I enjoy traveling and have been to all of the above countries
+```
 ## Specs 🧪
 
 ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
