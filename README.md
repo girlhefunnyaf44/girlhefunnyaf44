@@ -15,10 +15,6 @@
   ## Je M'appelle! <img src="https://i.imgur.com/TXOjIsn.gif" width="29px">
 
 ```golang
-package main
-
-import "fmt"
-
 type Farmer struct {
 	Hobbies   []string
 	Code      []string
@@ -38,11 +34,9 @@ func main() {
 			"Dominican Republic 🍍",
 			"Canada 🍁",
 			"Hawaii 🏖️", 
-		},
-	} 
-
-	fmt.Println(rice)
-}```
+		}
+	} 	
+} // I enjoy traveling and have been to all of the above countries```
 
 ## Specs 🧪
 
