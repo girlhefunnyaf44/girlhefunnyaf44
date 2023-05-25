@@ -38,5 +38,3 @@ func main() {
 	}
 } 
 ```
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=girlhefunnyaf44&layout=compact&theme=tokyonight"/>
