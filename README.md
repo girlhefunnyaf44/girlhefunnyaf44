@@ -31,8 +31,8 @@ func main() {
 			"France 🥖",
 			"Australia 🐨",
 			"Belize",
-			"Dominican Republic 🍍",
-			"Canada 🍁",
+			"Dominican Republic",
+			"Canada",
 			"Hawaii", 
 		}
 	}
