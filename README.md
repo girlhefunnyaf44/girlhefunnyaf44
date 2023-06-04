@@ -41,11 +41,7 @@ func main() {
 
 <!--  -->
 
-<p align="center" >
-<a href="https://github.com/girlhefunnyaf44/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=girlhefunnyaf44&&show_icons=true&theme=radical"/>
-  </a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girlhefunnyaf44&layout=compact&theme=highcontrast" width="350">
 </p>
 
-<br />
