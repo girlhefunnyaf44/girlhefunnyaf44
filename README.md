@@ -38,3 +38,14 @@ func main() {
 	}
 } 
 ```
+
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/girlhefunnyaf44/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=girlhefunnyaf44&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
+<br />
