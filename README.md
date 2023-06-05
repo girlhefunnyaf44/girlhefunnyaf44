@@ -42,6 +42,6 @@ func main() {
 <!--  -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girlhefunnyaf44&layout=compact&theme=highcontrast" width="350">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=girlhefunnyaf44&layout=compact&theme=highcontrast" width="350">
 </p>
 
