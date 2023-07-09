@@ -17,7 +17,6 @@
 ```golang
 type Farmer struct {
 	Hobbies   []string
-	Code      []string
 	Tools     []string
 	Vacations []string
 }
@@ -25,7 +24,6 @@ type Farmer struct {
 func main() {
 	rice := Farmer{
 		Hobbies: []string{"Fishing", "Basketball", "Kickboxing", "Traveling"},
-		Code:    []string{"Golang", "Perl"},
 		Tools:   []string{"CheatEngine", "PyCharm", "VS Code", "Raspberry Pi"},
 		Vacations: []string{ 
 			"France",
