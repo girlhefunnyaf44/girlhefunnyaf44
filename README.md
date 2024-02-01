@@ -24,7 +24,7 @@ type Farmer struct {
 func main() {
 	rice := Farmer{
 		Hobbies: []string{"Fishing", "Basketball", "Kickboxing", "Traveling"},
-		Tools:   []string{"CheatEngine", "PyCharm", "VS Code", "Raspberry Pi"},
+		Tools:   []string{"CheatEngine", "Vim", "Linux", "Raspberry Pi"},
 		Vacations: []string{ 
 			"France",
 			"Australia",
